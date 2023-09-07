@@ -1,0 +1,1 @@
+# kubernetes-check-script
